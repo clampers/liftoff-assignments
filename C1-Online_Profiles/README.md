@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/clampers
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/andrew-barrett-75351999/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://docs.google.com/document/d/1Pw2AhFnIvcoCAzUNkd7YsBInUISckROqjIfkS0ROt0A/edit?usp=sharing
