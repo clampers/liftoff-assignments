@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Sweaterhawk Presentation](https://docs.google.com/presentation/d/1Jov0FnwSCHOzd_g4AsGYNEKf1t6kjSlpJpZt75lx8eA/edit?usp=sharing)
